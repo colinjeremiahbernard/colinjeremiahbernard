@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+<div align="left">
+  <a href="https://github.com/avilacamilla">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=colinjeremiahbernard&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=colinjeremiahbernard&layout=compact&langs_count=7&theme=ocean_dark"/>
+</div>
 <!--
 **colinjeremiahbernard/colinjeremiahbernard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
