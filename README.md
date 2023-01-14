@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋 Nice to have you around. Feel free to check on everything around.
 <div align="left">
-  <a href="https://github.com/avilacamilla">
+  <a href="https://github.com/colinjeremiahbernard">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=colinjeremiahbernard&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=colinjeremiahbernard&layout=compact&langs_count=7&theme=ocean_dark"/>
 </div>
